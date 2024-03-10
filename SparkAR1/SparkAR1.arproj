@@ -561,8 +561,7 @@
           "name": "ColiderSequence1",
           "identifier": "sequenceTexture:7514-dea8e3a8-5c49-4b29-84e9-8b58fc46f386",
           "frameRate": 5,
-          "loop": false,
-          "sourceTextureIdentifier": "textureGroup:132811-37d5950e-8f6c-4dc4-a788-6704916107d4"
+          "sourceTextureIdentifier": "textureGroup:284727-37d5950e-8f6c-4dc4-a788-6704916107d4"
         },
         {
           "modelName": "textureGroup",
@@ -603,8 +602,7 @@
           "name": "ColiderSequence2",
           "identifier": "sequenceTextur193669-dea8e3a8-5c49-4b29-84e9-8b58fc46f386",
           "frameRate": 2,
-          "loop": false,
-          "sourceTextureIdentifier": "textureGroup:132811-37d5950e-8f6c-4dc4-a788-6704916107d4"
+          "sourceTextureIdentifier": "textureGroup:285547-37d5950e-8f6c-4dc4-a788-6704916107d4"
         },
         {
           "modelName": "textureGroup",
@@ -631,8 +629,7 @@
           "name": "elementLeft_Sequence",
           "identifier": "sequenceTexture:811836-b2aff90a-9fe6-4397-a7c7-e5b97fb7c3ba",
           "frameRate": 3,
-          "loop": false,
-          "sourceTextureIdentifier": "textureGroup:133699-37d5950e-8f6c-4dc4-a788-6704916107d4"
+          "sourceTextureIdentifier": "textureGroup:286381-37d5950e-8f6c-4dc4-a788-6704916107d4"
         },
         {
           "modelName": "sequenceTexture",
@@ -640,160 +637,92 @@
           "identifier": "sequenceTexture:930107-b2aff90a-9fe6-4397-a7c7-e5b97fb7c3ba",
           "frameRate": 2,
           "loop": false,
-          "sourceTextureIdentifier": "textureGroup:133699-37d5950e-8f6c-4dc4-a788-6704916107d4"
-        },
-        {
-          "modelName": "textureGroup",
-          "name": "tr[1-2]",
-          "identifier": "textureGroup:2135777-b2aff90a-9fe6-4397-a7c7-e5b97fb7c3ba",
-          "sequenceFramesTextureIdentifiers": [
-            "texture:2135771-b2aff90a-9fe6-4397-a7c7-e5b97fb7c3ba",
-            "texture:2135775-b2aff90a-9fe6-4397-a7c7-e5b97fb7c3ba"
-          ],
-          "children": [
-            {
-              "sectionFileLocation": "textures/traffic-3.texture"
-            },
-            {
-              "sectionFileLocation": "textures/tree-3.texture"
-            }
-          ]
-        },
-        {
-          "modelName": "textureGroup",
-          "name": "tr[1-2]0",
-          "identifier": "textureGroup:2136649-b2aff90a-9fe6-4397-a7c7-e5b97fb7c3ba",
-          "sequenceFramesTextureIdentifiers": [
-            "texture:2136643-b2aff90a-9fe6-4397-a7c7-e5b97fb7c3ba",
-            "texture:2136647-b2aff90a-9fe6-4397-a7c7-e5b97fb7c3ba"
-          ],
-          "children": [
-            {
-              "sectionFileLocation": "textures/traffic(1).texture"
-            },
-            {
-              "sectionFileLocation": "textures/tree(1).texture"
-            }
-          ]
-        },
-        {
-          "modelName": "textureGroup",
-          "name": "[1-3]",
-          "identifier": "textureGroup:124765-c72b4c1b-ad54-4ff8-a9c3-9fba672aee6d",
-          "sequenceFramesTextureIdentifiers": [
-            "texture:124755-c72b4c1b-ad54-4ff8-a9c3-9fba672aee6d",
-            "texture:124759-c72b4c1b-ad54-4ff8-a9c3-9fba672aee6d",
-            "texture:124763-c72b4c1b-ad54-4ff8-a9c3-9fba672aee6d"
-          ],
-          "children": [
-            {
-              "sectionFileLocation": "textures/Me.texture"
-            },
-            {
-              "sectionFileLocation": "textures/traffic(2).texture"
-            },
-            {
-              "sectionFileLocation": "textures/tree(2).texture"
-            }
-          ]
-        },
-        {
-          "modelName": "textureGroup",
-          "name": "[1-3]0",
-          "identifier": "textureGroup:125665-c72b4c1b-ad54-4ff8-a9c3-9fba672aee6d",
-          "sequenceFramesTextureIdentifiers": [
-            "texture:125655-c72b4c1b-ad54-4ff8-a9c3-9fba672aee6d",
-            "texture:125659-c72b4c1b-ad54-4ff8-a9c3-9fba672aee6d",
-            "texture:125663-c72b4c1b-ad54-4ff8-a9c3-9fba672aee6d"
-          ],
-          "children": [
-            {
-              "sectionFileLocation": "textures/Me(1).texture"
-            },
-            {
-              "sectionFileLocation": "textures/traffic(3).texture"
-            },
-            {
-              "sectionFileLocation": "textures/tree(3).texture"
-            }
-          ]
+          "sourceTextureIdentifier": "textureGroup:287913-37d5950e-8f6c-4dc4-a788-6704916107d4"
         },
         {
           "sectionFileLocation": "textures/Me(2).texture"
         },
         {
           "modelName": "textureGroup",
-          "name": "[1-3]1",
-          "identifier": "textureGroup:127487-c72b4c1b-ad54-4ff8-a9c3-9fba672aee6d",
+          "name": "ColiderMe1",
+          "identifier": "textureGroup:284727-37d5950e-8f6c-4dc4-a788-6704916107d4",
           "sequenceFramesTextureIdentifiers": [
-            "texture:127485-c72b4c1b-ad54-4ff8-a9c3-9fba672aee6d",
-            "texture:127477-c72b4c1b-ad54-4ff8-a9c3-9fba672aee6d",
-            "texture:127481-c72b4c1b-ad54-4ff8-a9c3-9fba672aee6d"
+            "texture:284725-37d5950e-8f6c-4dc4-a788-6704916107d4",
+            "texture:284717-37d5950e-8f6c-4dc4-a788-6704916107d4",
+            "texture:284721-37d5950e-8f6c-4dc4-a788-6704916107d4"
           ],
           "children": [
             {
-              "sectionFileLocation": "textures/Me(3).texture"
+              "sectionFileLocation": "textures/Me-2.texture"
             },
             {
-              "sectionFileLocation": "textures/bar1(1).texture"
+              "sectionFileLocation": "textures/bar1(1)-2.texture"
             },
             {
-              "sectionFileLocation": "textures/bar2(1).texture"
+              "sectionFileLocation": "textures/bar2(1)-2.texture"
             }
           ]
         },
         {
           "modelName": "textureGroup",
-          "name": "[1-3]2",
-          "identifier": "textureGroup:128419-c72b4c1b-ad54-4ff8-a9c3-9fba672aee6d",
+          "name": "ColiderMe2",
+          "identifier": "textureGroup:285547-37d5950e-8f6c-4dc4-a788-6704916107d4",
           "sequenceFramesTextureIdentifiers": [
-            "texture:128417-c72b4c1b-ad54-4ff8-a9c3-9fba672aee6d",
-            "texture:128409-c72b4c1b-ad54-4ff8-a9c3-9fba672aee6d",
-            "texture:128413-c72b4c1b-ad54-4ff8-a9c3-9fba672aee6d"
+            "texture:285545-37d5950e-8f6c-4dc4-a788-6704916107d4",
+            "texture:285537-37d5950e-8f6c-4dc4-a788-6704916107d4",
+            "texture:285541-37d5950e-8f6c-4dc4-a788-6704916107d4"
           ],
           "children": [
             {
-              "sectionFileLocation": "textures/Me(4).texture"
+              "sectionFileLocation": "textures/Me(1)-2.texture"
             },
             {
-              "sectionFileLocation": "textures/bar1(2).texture"
+              "sectionFileLocation": "textures/bar1(2)-2.texture"
             },
             {
-              "sectionFileLocation": "textures/bar2(2).texture"
+              "sectionFileLocation": "textures/bar2(2)-2.texture"
             }
           ]
         },
         {
           "modelName": "textureGroup",
-          "name": "bar[1-2]",
-          "identifier": "textureGroup:132811-37d5950e-8f6c-4dc4-a788-6704916107d4",
+          "name": "ElementMe1",
+          "identifier": "textureGroup:286381-37d5950e-8f6c-4dc4-a788-6704916107d4",
           "sequenceFramesTextureIdentifiers": [
-            "texture:132805-37d5950e-8f6c-4dc4-a788-6704916107d4",
-            "texture:132809-37d5950e-8f6c-4dc4-a788-6704916107d4"
+            "texture:286371-37d5950e-8f6c-4dc4-a788-6704916107d4",
+            "texture:286375-37d5950e-8f6c-4dc4-a788-6704916107d4",
+            "texture:286379-37d5950e-8f6c-4dc4-a788-6704916107d4"
           ],
           "children": [
             {
-              "sectionFileLocation": "textures/bar1(3).texture"
+              "sectionFileLocation": "textures/Me(2)0.texture"
             },
             {
-              "sectionFileLocation": "textures/bar2(3).texture"
+              "sectionFileLocation": "textures/traffic.texture"
+            },
+            {
+              "sectionFileLocation": "textures/tree.texture"
             }
           ]
         },
         {
           "modelName": "textureGroup",
-          "name": "tr[1-2]",
-          "identifier": "textureGroup:133699-37d5950e-8f6c-4dc4-a788-6704916107d4",
+          "name": "ElementMe2",
+          "identifier": "textureGroup:287913-37d5950e-8f6c-4dc4-a788-6704916107d4",
           "sequenceFramesTextureIdentifiers": [
-            "texture:133693-37d5950e-8f6c-4dc4-a788-6704916107d4",
-            "texture:133697-37d5950e-8f6c-4dc4-a788-6704916107d4"
+            "texture:287959-37d5950e-8f6c-4dc4-a788-6704916107d4",
+            "texture:287960-37d5950e-8f6c-4dc4-a788-6704916107d4",
+            "texture:287961-37d5950e-8f6c-4dc4-a788-6704916107d4"
           ],
           "children": [
             {
-              "sectionFileLocation": "textures/traffic(4).texture"
+              "sectionFileLocation": "textures/Me(2)0-2.texture"
             },
             {
-              "sectionFileLocation": "textures/tree(4).texture"
+              "sectionFileLocation": "textures/traffic-2.texture"
+            },
+            {
+              "sectionFileLocation": "textures/tree-2.texture"
             }
           ]
         }
